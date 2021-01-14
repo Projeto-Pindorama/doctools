@@ -1,0 +1,6 @@
+- BSD 4-Clause;
+- Caldera License;
+- Lesser GNU/General Public License (LGPL) (i hate it);
+- LaTeX Project Public License (LPPL);
+- Lucent Public License Version 1.02 (LPL);
+- Common Development and Distribution License (CDDL).
